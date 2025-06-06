@@ -42,22 +42,22 @@ The parent folder has a large amount of child folders each containing a .snort f
 8. Append .pcap to file name and rename file
 
 ## Screenshots
-<img src="create_file.png" alt="Create File Screenshot" width="800"/>
-
 Created File
 
-<img src="code_with_print_statements.png" alt="Code Screenshot" width="800"/>
+<img src="create_file.png" alt="Create File Screenshot" width="800"/>
 
 Code With Print Statments For Debugging
 
-<img src="final_code_with_print_statements_removed.png" alt="Code Screenshot" width="800"/>
+<img src="code_with_print_statements.png" alt="Code Screenshot" width="800"/>
 
 Production-Ready Code with Print Statements Removed
 
-<img src="executing_python_script.png" alt="Executing Script Screenshot" width="800"/>
+<img src="final_code_with_print_statements_removed.png" alt="Code Screenshot" width="800"/>
 
 Executing the Python Script
 
-<img src="script_success.png" alt="Success Screenshot" width="800"/>
+<img src="executing_python_script.png" alt="Executing Script Screenshot" width="800"/>
 
 Confirmation That The Script Successfully Renamed Each File
+
+<img src="script_success.png" alt="Success Screenshot" width="800"/>
