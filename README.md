@@ -50,6 +50,15 @@ The parent folder has a large amount of child folders each containing a .snort f
 
 9. Append .pcap to file name and rename file
 
+## Skills Demonstrated
+-Python Scripting
+
+-Automating manual workflows
+
+-File system traversal with os
+
+-Problem-solving under pressure
+
 ## Screenshots
 Created File
 
