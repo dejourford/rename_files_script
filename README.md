@@ -7,7 +7,7 @@ Append .pcap to the end of each file name to convert the downloaded files from .
 -Python
 
 ## Scenario
-The parent folder has a large amount of child folders each containing a .snort file. Write a Python script that loops through each folder and appends .pcag to the end of the name to convert it from a .snort file to a .pcag file that Wireshark can read/open.
+The parent folder has a large amount of child folders each containing a .snort file. Write a Python script that loops through each folder and appends .pcag to the end of the name to convert it from a .snort file to a .pcap file that Wireshark can read/open.
 
 ## Files Included
 | File | Description |
