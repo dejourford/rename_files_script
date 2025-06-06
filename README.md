@@ -25,21 +25,23 @@ The parent folder has a large amount of child folders each containing a .snort f
 -How to safely rename files using conditional logic to avoid redundant naming
 
 ## What I Did 
-1. Imported OS
+1. Created python file
 
-2. Changed to parent directory
+2. Imported OS
 
-3. Looped through folders
+3. Changed to parent directory
 
-4. Change directory into each sub folder
+4. Looped through folders
 
-5. List files in each sub folder
+5. Change directory into each sub folder
 
-6. Loop through each file in case of more than one
+6. List files in each sub folder
 
-7. Create safeguard for appending .pcap to file name if it already exists
+7. Loop through each file in case of more than one
 
-8. Append .pcap to file name and rename file
+8. Create safeguard for appending .pcap to file name if it already exists
+
+9. Append .pcap to file name and rename file
 
 ## Screenshots
 Created File
