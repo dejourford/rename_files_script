@@ -1,7 +1,7 @@
 # Python Script To Convert Files In Folder By Renaming Them
 
 ## Objective
-Append .pcap to the end of each file name to convert the downloaded files from .snort files to .pcap files to be opened in Wireshark. The Parent Folder has a large amount of Child Folders, so it would be tidious to do manually.
+Append .pcap to the end of each file name to convert the downloaded files from .snort files to .pcap files to be opened in Wireshark. The Parent Folder has a large amount of Child Folders, so it would be tedious to do manually.
 
 ## Tools Needed
 -Python
@@ -16,12 +16,19 @@ The parent folder has a large amount of child folders each containing a .snort f
 
 ## What I Learned
 -How to use OS module functions
+
     os.getcwd() --> Gets current directory
+
     os.chdir() --> Changes directory
+   
     os.listdir() --> Lists all items in directory
+   
     os.rename() --> Renames file
+
 -How to traverse directories and subdirectories programmatically
+
 -The importance of using os.path.join() for building platform-independent file paths
+
 -How to safely rename files using conditional logic to avoid redundant naming
 
 ## What I Did 
