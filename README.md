@@ -12,7 +12,7 @@ The parent folder has a large amount of child folders each containing a .snort f
 ## Files Included
 | File | Description |
 |------|-------------|
-| `script.py` | Python Script File To Rename Files |
+| `rename_file_script.py` | Python Script File To Rename Files |
 
 ## What I Learned
 -How to use OS module functions
